@@ -1,0 +1,12 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=Qualcomm Atheros Client Installation Program
+Version=10.0
+Company=Qualcomm Atheros
+Lang=0816
+hgh
+65
